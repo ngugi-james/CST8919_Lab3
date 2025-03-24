@@ -55,7 +55,7 @@ Configuring Security Group to allow inbound traffic on port 3000 for Grafana
 Browsing to the Grafana Log In page.
 
 ---
-![alt text](image-5.png)
+![alt text](image-16.png)
 
 ### **Step 7**
 
