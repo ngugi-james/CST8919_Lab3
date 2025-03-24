@@ -22,7 +22,7 @@ Configured and deployed Ubuntu Server VM to run Grafana.
 Logging into the Ubuntu VM using SSH
 
 ---
-![alt text](image-1.png)
+![alt text](image-14.png)
 
 ### **Step 3**
 
